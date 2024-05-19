@@ -1,4 +1,4 @@
-'''Calculadora simples com o 3ºB'''
+#Calculadora simples com o 3ºB
 n1 = float(input('Primeiro número: '))
 print('''Opções
                [ 0 ] +
